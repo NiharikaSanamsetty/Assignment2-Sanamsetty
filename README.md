@@ -37,7 +37,7 @@ Hyderabad is the capital and largest city of the South Indian state of Telangana
 * Grilled Chicken
 * Scrambled Eggs
 
-Hip Hip Hurray.. Let's see this **[Git](AboutMe.md)**
+Hip Hip Hurray.. Let's see this **[HelloGit](AboutMe.md)**
 ***
 ## FOOD/DRINK TABLE
  Here is the table for drinks we are introducing that everyone should try as you will definitely enjoy it. There are 3 columns which shows the info about the Type of drink, Location and Amount to be paid.
